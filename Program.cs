@@ -29,10 +29,10 @@ namespace Bluethooth
         private static void Port_DataReceived(object sender, SerialDataReceivedEventArgs e)
         {
             string msg = port.ReadExisting();
-            GetMessage(msg);
+            GetAllMessage(msg);
         }
 
-        static void GetMessage(string msg)
+        static void GetAllMessage(string msg)
         {
             Message += msg;
             int index = Message.IndexOf("\r\n");
@@ -45,7 +45,7 @@ namespace Bluethooth
 
             if (Message.Contains("\r\n"))
             {
-                GetMessage("");
+                GetAllMessage("");
             }
         }
     }
