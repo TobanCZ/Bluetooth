@@ -1,0 +1,7 @@
+C:\Visual studio projects\Bluethooth\bin\Debug\Bluethooth.exe.config
+C:\Visual studio projects\Bluethooth\bin\Debug\Bluethooth.exe
+C:\Visual studio projects\Bluethooth\bin\Debug\Bluethooth.pdb
+C:\Visual studio projects\Bluethooth\obj\Debug\Bluethooth.csproj.AssemblyReference.cache
+C:\Visual studio projects\Bluethooth\obj\Debug\Bluethooth.csproj.CoreCompileInputs.cache
+C:\Visual studio projects\Bluethooth\obj\Debug\Bluethooth.exe
+C:\Visual studio projects\Bluethooth\obj\Debug\Bluethooth.pdb
