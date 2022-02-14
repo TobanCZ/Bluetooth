@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.31624.102
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bluethooth", "Bluethooth.csproj", "{30EB2694-55BB-4C20-902B-8B4E9A31282B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bluethooth Module App", "..\Bluethooth Module App\Bluethooth Module App.csproj", "{50FE0226-3AC1-499B-B489-A9A1A9DDB9C4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bluethooth Module App", "Bluethooth Module App\Bluethooth Module App.csproj", "{50FE0226-3AC1-499B-B489-A9A1A9DDB9C4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
