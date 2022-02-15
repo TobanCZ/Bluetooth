@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "30eb2694-55bb-4c20-902b-8b4e9a31282b": {
+      "ProjectGuid": "30eb2694-55bb-4c20-902b-8b4e9a31282b",
+      "DisplayName": "Bluethooth",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
