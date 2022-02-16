@@ -1,0 +1,11 @@
+C:\Users\tobia\OneDrive\Plocha\Visual Studio\Bluethooth\Bluethooth Module App\bin\Debug\Bluethooth Module App.exe.config
+C:\Users\tobia\OneDrive\Plocha\Visual Studio\Bluethooth\Bluethooth Module App\bin\Debug\Bluethooth Module App.exe
+C:\Users\tobia\OneDrive\Plocha\Visual Studio\Bluethooth\Bluethooth Module App\bin\Debug\Bluethooth Module App.pdb
+C:\Users\tobia\OneDrive\Plocha\Visual Studio\Bluethooth\Bluethooth Module App\obj\Debug\Bluethooth Module App.csproj.AssemblyReference.cache
+C:\Users\tobia\OneDrive\Plocha\Visual Studio\Bluethooth\Bluethooth Module App\obj\Debug\Bluethooth Module App.csproj.SuggestedBindingRedirects.cache
+C:\Users\tobia\OneDrive\Plocha\Visual Studio\Bluethooth\Bluethooth Module App\obj\Debug\Bluethooth_Module_App.Form1.resources
+C:\Users\tobia\OneDrive\Plocha\Visual Studio\Bluethooth\Bluethooth Module App\obj\Debug\Bluethooth_Module_App.Properties.Resources.resources
+C:\Users\tobia\OneDrive\Plocha\Visual Studio\Bluethooth\Bluethooth Module App\obj\Debug\Bluethooth Module App.csproj.GenerateResource.cache
+C:\Users\tobia\OneDrive\Plocha\Visual Studio\Bluethooth\Bluethooth Module App\obj\Debug\Bluethooth Module App.csproj.CoreCompileInputs.cache
+C:\Users\tobia\OneDrive\Plocha\Visual Studio\Bluethooth\Bluethooth Module App\obj\Debug\Bluethooth Module App.exe
+C:\Users\tobia\OneDrive\Plocha\Visual Studio\Bluethooth\Bluethooth Module App\obj\Debug\Bluethooth Module App.pdb

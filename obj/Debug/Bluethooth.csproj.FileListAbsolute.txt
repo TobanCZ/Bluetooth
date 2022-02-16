@@ -5,3 +5,11 @@ C:\Visual studio projects\Bluethooth\obj\Debug\Bluethooth.csproj.AssemblyReferen
 C:\Visual studio projects\Bluethooth\obj\Debug\Bluethooth.csproj.CoreCompileInputs.cache
 C:\Visual studio projects\Bluethooth\obj\Debug\Bluethooth.exe
 C:\Visual studio projects\Bluethooth\obj\Debug\Bluethooth.pdb
+C:\Users\tobia\OneDrive\Plocha\Visual Studio\Bluethooth\bin\Debug\Bluethooth.exe.config
+C:\Users\tobia\OneDrive\Plocha\Visual Studio\Bluethooth\bin\Debug\Bluethooth.exe
+C:\Users\tobia\OneDrive\Plocha\Visual Studio\Bluethooth\bin\Debug\Bluethooth.pdb
+C:\Users\tobia\OneDrive\Plocha\Visual Studio\Bluethooth\obj\Debug\Bluethooth.csproj.AssemblyReference.cache
+C:\Users\tobia\OneDrive\Plocha\Visual Studio\Bluethooth\obj\Debug\Bluethooth.csproj.SuggestedBindingRedirects.cache
+C:\Users\tobia\OneDrive\Plocha\Visual Studio\Bluethooth\obj\Debug\Bluethooth.csproj.CoreCompileInputs.cache
+C:\Users\tobia\OneDrive\Plocha\Visual Studio\Bluethooth\obj\Debug\Bluethooth.exe
+C:\Users\tobia\OneDrive\Plocha\Visual Studio\Bluethooth\obj\Debug\Bluethooth.pdb
