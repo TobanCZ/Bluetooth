@@ -9,3 +9,17 @@ C:\Users\tobia\OneDrive\Plocha\Visual Studio\Bluethooth\Bluethooth Module App\ob
 C:\Users\tobia\OneDrive\Plocha\Visual Studio\Bluethooth\Bluethooth Module App\obj\Debug\Bluethooth Module App.csproj.CoreCompileInputs.cache
 C:\Users\tobia\OneDrive\Plocha\Visual Studio\Bluethooth\Bluethooth Module App\obj\Debug\Bluethooth Module App.exe
 C:\Users\tobia\OneDrive\Plocha\Visual Studio\Bluethooth\Bluethooth Module App\obj\Debug\Bluethooth Module App.pdb
+C:\Visual studio projects\Bluethooth\Bluethooth Module App\bin\Debug\Bluethooth Module App.exe.config
+C:\Visual studio projects\Bluethooth\Bluethooth Module App\bin\Debug\Bluethooth Module App.exe
+C:\Visual studio projects\Bluethooth\Bluethooth Module App\bin\Debug\Bluethooth Module App.pdb
+C:\Visual studio projects\Bluethooth\Bluethooth Module App\obj\Debug\Bluethooth Module App.csproj.AssemblyReference.cache
+C:\Visual studio projects\Bluethooth\Bluethooth Module App\obj\Debug\Bluethooth_Module_App.Form1.resources
+C:\Visual studio projects\Bluethooth\Bluethooth Module App\obj\Debug\Bluethooth_Module_App.Properties.Resources.resources
+C:\Visual studio projects\Bluethooth\Bluethooth Module App\obj\Debug\Bluethooth Module App.csproj.GenerateResource.cache
+C:\Visual studio projects\Bluethooth\Bluethooth Module App\obj\Debug\Bluethooth Module App.csproj.CoreCompileInputs.cache
+C:\Visual studio projects\Bluethooth\Bluethooth Module App\obj\Debug\Bluethooth Module App.exe
+C:\Visual studio projects\Bluethooth\Bluethooth Module App\obj\Debug\Bluethooth Module App.pdb
+C:\Visual studio projects\Bluethooth\Bluethooth Module App\bin\Debug\Bluethooth Module App.exe.manifest
+C:\Visual studio projects\Bluethooth\Bluethooth Module App\bin\Debug\Bluethooth Module App.application
+C:\Visual studio projects\Bluethooth\Bluethooth Module App\obj\Debug\Bluethooth Module App.exe.manifest
+C:\Visual studio projects\Bluethooth\Bluethooth Module App\obj\Debug\Bluethooth Module App.application

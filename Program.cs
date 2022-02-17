@@ -14,7 +14,7 @@ namespace Bluethooth
         static string[] ports;
         static void Main(string[] args)
         {
-            port = new SerialPort("COM5");
+            port = new SerialPort("COM4");
             port.DataReceived += Port_DataReceived;
             port.BaudRate = 9600;
             port.Open();
@@ -23,6 +23,10 @@ namespace Bluethooth
             port.Write("AT+PSWD?\r\n");
             port.Write("AT+STATE?\r\n");
             port.Write("AT+CLASS?\r\n");
+            port.Write("AT+VERSION?\r\n");
+            port.Write("AT+VERSION?\r\n");
+            port.Write("AT+UART?\r\n");
+            port.Write("AT+ROLE=xd\r\n");
             ports = SerialPort.GetPortNames();
 
             for(int i =0;i < ports.Length;i++)
