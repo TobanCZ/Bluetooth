@@ -1,0 +1,14 @@
+C:\Visual studio projects\Bluetooth\Bluetooth Module App\bin\Debug\Bluethooth Module App.exe.config
+C:\Visual studio projects\Bluetooth\Bluetooth Module App\bin\Debug\Bluethooth Module App.exe.manifest
+C:\Visual studio projects\Bluetooth\Bluetooth Module App\bin\Debug\Bluethooth Module App.application
+C:\Visual studio projects\Bluetooth\Bluetooth Module App\bin\Debug\Bluethooth Module App.exe
+C:\Visual studio projects\Bluetooth\Bluetooth Module App\bin\Debug\Bluethooth Module App.pdb
+C:\Visual studio projects\Bluetooth\Bluetooth Module App\obj\Debug\Bluethooth_Module_App.Bluetooth_configuration.resources
+C:\Visual studio projects\Bluetooth\Bluetooth Module App\obj\Debug\Bluethooth_Module_App.Properties.Resources.resources
+C:\Visual studio projects\Bluetooth\Bluetooth Module App\obj\Debug\Bluetooth Module App.csproj.GenerateResource.cache
+C:\Visual studio projects\Bluetooth\Bluetooth Module App\obj\Debug\Bluetooth Module App.csproj.CoreCompileInputs.cache
+C:\Visual studio projects\Bluetooth\Bluetooth Module App\obj\Debug\Bluethooth Module App.exe.manifest
+C:\Visual studio projects\Bluetooth\Bluetooth Module App\obj\Debug\Bluethooth Module App.application
+C:\Visual studio projects\Bluetooth\Bluetooth Module App\obj\Debug\Bluethooth Module App.exe
+C:\Visual studio projects\Bluetooth\Bluetooth Module App\obj\Debug\Bluethooth Module App.pdb
+C:\Visual studio projects\Bluetooth\Bluetooth Module App\obj\Debug\Bluetooth Module App.csproj.AssemblyReference.cache
