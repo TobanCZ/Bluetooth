@@ -43,14 +43,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Bluethooth Module App.exe" size="562656">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Bluethooth Module App.exe" size="563168">
       <assemblyIdentity name="Bluethooth Module App" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>7hlzUofQIO17oAjtLiHYhdrXPRWPjGPkiibtT2FOuMk=</dsig:DigestValue>
+        <dsig:DigestValue>xR097sMPSNJOYFmkEPoFoLo2T3h+RMFhVBundhOW4Nw=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

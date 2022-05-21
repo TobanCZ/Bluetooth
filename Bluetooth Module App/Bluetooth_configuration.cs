@@ -377,9 +377,8 @@ namespace Bluethooth_Module_App
             catch
             {
                 MessageBox.Show("Cannot make change.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                return;
             }
-
-            MessageBox.Show("Changes was successful.", "Success", MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
 
         void Change()
@@ -400,7 +399,7 @@ namespace Bluethooth_Module_App
                     {
                         if (stopWatch.ElapsedMilliseconds > 1000)
                         {
-                            MessageBox.Show("Cannot write", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                            MessageBox.Show("ERROR: Cannot write.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
                             stopWatch.Stop();
                             stopWatch.Reset();
                             return;
@@ -413,7 +412,7 @@ namespace Bluethooth_Module_App
                     }
                     else
                     {
-                        MessageBox.Show("Cannot write", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                        MessageBox.Show("ERROR: Cannot write.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
                         return;
                     }
                 }
@@ -425,9 +424,9 @@ namespace Bluethooth_Module_App
 
                 while (Message_list.Count != 1)
                 {
-                    if (stopWatch.ElapsedMilliseconds > 10000)
+                    if (stopWatch.ElapsedMilliseconds > 1000)
                     {
-                        MessageBox.Show("Cannot write", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                        MessageBox.Show("ERROR: Cannot write.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
                         stopWatch.Stop();
                         stopWatch.Reset();
                         return;
@@ -440,7 +439,7 @@ namespace Bluethooth_Module_App
                 }
                 else
                 {
-                    MessageBox.Show("Cannot write", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    MessageBox.Show("ERROR: Cannot write.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
                     return;
                 }
 
@@ -453,7 +452,7 @@ namespace Bluethooth_Module_App
                 {
                     if (stopWatch.ElapsedMilliseconds > 1000)
                     {
-                        MessageBox.Show("Cannot write", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                        MessageBox.Show("ERROR: Cannot write.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
                         stopWatch.Stop();
                         stopWatch.Reset();
                         return;
@@ -468,13 +467,16 @@ namespace Bluethooth_Module_App
                 }
                 else
                 {
-                    MessageBox.Show("Cannot write", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    MessageBox.Show("ERROR: Cannot write.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
                     return;
                 }
+
+                MessageBox.Show("Changes was applied.", "Success", MessageBoxButtons.OK, MessageBoxIcon.Information);
             }
             else
             {
                 MessageBox.Show("You are not connected", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                return;
             }
         }
 
@@ -518,6 +520,7 @@ namespace Bluethooth_Module_App
             else
             {
                 MessageBox.Show("You are not connected!", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                return;
             }
         }
 
@@ -525,7 +528,7 @@ namespace Bluethooth_Module_App
         {
             if (port != null && port.IsOpen)
             {
-                DialogResult dialogResult = MessageBox.Show("Are you sure?", "Factory Reset", MessageBoxButtons.YesNo);
+                DialogResult dialogResult = MessageBox.Show("Are you sure?", "Factory Reset",MessageBoxButtons.YesNo,MessageBoxIcon.Information);
                 if (dialogResult == DialogResult.Yes)
                 {
 
